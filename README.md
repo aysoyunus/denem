@@ -1,2 +1,1 @@
-# denem
-deneme amaçlı
+
